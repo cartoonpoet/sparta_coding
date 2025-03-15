@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/1072
+# 게임
+
 x, y = map(int, input().split())
 z = (y * 100) // x
 

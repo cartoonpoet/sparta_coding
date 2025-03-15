@@ -2,6 +2,7 @@
 # 첫 징검다리는 점프해서 아무것이나 밟을 수 있다.
 # 두 번쨰 점프부터는 이전에 점프한 거리보다 1이상 더 긴거리를 뛰어야함
 # N번 징검다리는 반드시 밟아야한다.
+# https://www.acmicpc.net/problem/11561
 T = int(input())
 
 for i in range(T):
